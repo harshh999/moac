@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "id": "starter",
+      "name": "STARTER",
+      "items": [
+        { "id": 17, "name": "Boil (2 pcs)", "price": "₹24", "veg": false },
+        { "id": 18, "name": "Boil Fry Sada (2 pcs)", "price": "Oil ₹40 | Double Oil ₹80", "veg": false },
+        { "id": 19, "name": "Boil Fry Masala (2 pcs)", "price": "Oil ₹50 | Double Oil ₹100 | Oil+Butter ₹60 | Double Butter ₹120", "veg": false }
+      ]
+    },
+    {
+      "id": "dishes",
+      "name": "DISHES",
+      "items": [
+        { "id": 20, "name": "Omlette", "price": "Oil ₹35 | Double Oil ₹70, Butter ₹50 | Double Butter ₹90", "veg": false },
+        { "id": 21, "name": "Masala Omlette", "price": "Oil ₹60 | Double Oil ₹120, Butter ₹65 | Double Butter ₹130", "veg": false },
+        { "id": 22, "name": "Tomato Omlette", "price": "Oil ₹60 | Double Oil ₹120, Butter ₹65 | Double Butter ₹130", "veg": false },
+        { "id": 23, "name": "Cheese Omlette", "price": "Oil ₹100 | Double Oil ₹160, Butter ₹110 | Double Butter ₹190", "veg": false },
+        { "id": 24, "name": "Cheese Masala Omlette", "price": "Oil ₹100 | Double Oil ₹160, Butter ₹110 | Double Butter ₹190", "veg": false },
+        { "id": 25, "name": "Half Fry Sada", "price": "Oil ₹35 | Double Oil ₹70, Butter ₹50 | Double Butter ₹90", "veg": false },
+        { "id": 26, "name": "Half Fry Masala", "price": "Oil ₹70 | Double Oil ₹130, Butter ₹90 | Double Butter ₹150", "veg": false },
+        { "id": 27, "name": "Half Fry Cheese Masala", "price": "Oil ₹100 | Double Oil ₹160, Butter ₹110 | Double Butter ₹190", "veg": false },
+        { "id": 28, "name": "Boil Tikka", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
+        { "id": 29, "name": "Boil Khima", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
+        { "id": 30, "name": "Boil Curry", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
+        { "id": 31, "name": "Bhurji", "price": "Oil ₹100 | Double Oil ₹180, Butter ₹110 | Double Butter ₹200", "veg": false },
+        { "id": 32, "name": "Gotala", "price": "Oil ₹100 | Double Oil ₹180, Butter ₹110 | Double Butter ₹200", "veg": false },
+        { "id": 33, "name": "Gotala Surti", "price": "Oil ₹120 | Double Oil ₹220, Butter ₹140 | Double Butter ₹230", "veg": false },
+        { "id": 34, "name": "Lasan Fry", "price": "Oil ₹100 | Double Oil ₹170, Butter ₹140 | Double Butter ₹210", "veg": false }
+      ]
+    },
+    {
+      "id": "egg-rice",
+      "name": "EGG RICE",
+      "items": [
+        { "id": 8, "name": "Egg Rice", "price": "Half: Oil ₹90 | Butter ₹100, Full: Oil ₹130 | Butter ₹160", "veg": false },
+        { "id": 9, "name": "Egg Tikka Rice", "price": "Half: Oil ₹140 | Butter ₹160, Full: Oil ₹180 | Butter ₹200", "veg": false },
+        { "id": 10, "name": "Egg Curry Rice", "price": "Half: Oil ₹140 | Butter ₹160, Full: Oil ₹180 | Butter ₹200", "veg": false },
+        { "id": 11, "name": "Egg Khima Rice", "price": "Half: Oil ₹140 | Butter ₹160, Full: Oil ₹180 | Butter ₹200", "veg": false },
+        { "id": 12, "name": "Egg Mughlai Rice", "price": "Half: Oil ₹140 | Butter ₹160, Full: Oil ₹180 | Butter ₹200", "veg": false },
+        { "id": 13, "name": "Egg Hyderabadi Pulao", "price": "Oil ₹190 | Butter ₹210", "veg": false },
+        { "id": 14, "name": "Egg Mughlai Hyd. Pulao", "price": "Oil ₹190 | Butter ₹210", "veg": false },
+        { "id": 15, "name": "Egg Special Pulao", "price": "Oil ₹200 | Butter ₹240", "veg": false },
+        { "id": 16, "name": "Egg Mahi Hyd. Sp. Pulao", "price": "Oil ₹220 | Butter ₹240", "veg": false }
+      ]
+    },
+    {
+      "id": "variety",
+      "name": "VARIETY",
+      "items": [
+        { "id": 1, "name": "Egg Roll", "price": "Oil ₹160 | Butter ₹190", "veg": false },
+        { "id": 2, "name": "Egg King", "price": "Oil ₹260 | Butter ₹300", "veg": false },
+        { "id": 3, "name": "Mahi Special", "price": "Oil ₹290 | Butter ₹340", "veg": false },
+        { "id": 4, "name": "Boil Chingari", "price": "Oil ₹210 | Butter ₹260", "veg": false },
+        { "id": 5, "name": "Egg Japanish", "price": "Oil ₹210 | Butter ₹260", "veg": false },
+        { "id": 6, "name": "Boil Angara", "price": "Oil ₹210 | Butter ₹260", "veg": false },
+        { "id": 7, "name": "Boil Toofani", "price": "Oil ₹210 | Butter ₹260", "veg": false }
+      ]
+    },
+    {
+      "id": "indian-bread",
+      "name": "INDIAN BREAD",
+      "items": [
+        { "id": 35, "name": "Bun", "price": "Oil ₹5 | Butter ₹7", "veg": true }
+      ]
+    },
+    {
+      "id": "chinese-soups",
+      "name": "CHINESE SOUPS",
+      "items": [
+        { "id": 36, "name": "Chicken Manchow Soup", "price": "Half ₹90 | Full ₹140", "veg": false },
+        { "id": 37, "name": "Chicken Hot & Sour Soup", "price": "Half ₹90 | Full ₹140", "veg": false },
+        { "id": 38, "name": "Chicken Garlic Soup", "price": "Half ₹90 | Full ₹140", "veg": false },
+        { "id": 39, "name": "Chicken Noodles Clear Soup", "price": "Half ₹90 | Full ₹140", "veg": false },
+        { "id": 40, "name": "Chicken Onion Soup", "price": "Half ₹90 | Full ₹140", "veg": false },
+        { "id": 41, "name": "Chicken Lung Fung Soup", "price": "Half ₹110 | Full ₹170", "veg": false },
+        { "id": 42, "name": "Veg Manchow Soup", "price": "Half ₹90 | Full ₹140", "veg": true },
+        { "id": 43, "name": "Veg Hot & Sour Soup", "price": "Half ₹90 | Full ₹140", "veg": true },
+        { "id": 44, "name": "Veg Sazwan Soup", "price": "Half ₹90 | Full ₹140", "veg": true },
+        { "id": 45, "name": "Veg Noodles Clear Soup", "price": "Half ₹90 | Full ₹140", "veg": true },
+        { "id": 46, "name": "Veg Onion Soup", "price": "Half ₹90 | Full ₹140", "veg": true },
+        { "id": 47, "name": "Veg Lung Fung Soup", "price": "Half ₹90 | Full ₹140", "veg": true },
+        { "id": 48, "name": "Veg Mahi Special Soup", "price": "₹100", "veg": true }
+      ]
+    },
+    {
+      "id": "chinese-noodles",
+      "name": "CHINESE NOODLES",
+      "items": [
+        { "id": 49, "name": "Chicken Italian Noodles", "price": "₹130 | ₹190", "veg": false },
+        { "id": 50, "name": "Chicken Garlic Noodles", "price": "₹130 | ₹190", "veg": false },
+        { "id": 51, "name": "Chicken Hakka Noodles", "price": "₹130 | ₹190", "veg": false },
+        { "id": 52, "name": "Chicken Singapore Noodles", "price": "₹130 | ₹190", "veg": false },
+        { "id": 53, "name": "Veg Noodles", "price": "₹90 | ₹140", "veg": true },
+        { "id": 54, "name": "Veg Hakka Noodles", "price": "₹90 | ₹140", "veg": true },
+        { "id": 55, "name": "Veg Garlic Noodles", "price": "₹90 | ₹140", "veg": true },
+        { "id": 56, "name": "Veg Singapore Noodles", "price": "₹90 | ₹140", "veg": true },
+        { "id": 57, "name": "Veg Bombay Noodles", "price": "₹100 | ₹150", "veg": true },
+        { "id": 58, "name": "Veg Crispy Noodles", "price": "₹100 | ₹150", "veg": true }
+      ]
+    },
+    {
+      "id": "chinese-gravy",
+      "name": "CHINESE GRAVY",
+      "items": [
+        { "id": 69, "name": "Chicken Manchurian Gravy", "price": "₹150 | ₹250", "veg": false },
+        { "id": 70, "name": "Chicken Ginger Gravy", "price": "₹150 | ₹250", "veg": false },
+        { "id": 71, "name": "Chicken American Chopsuey", "price": "₹150 | ₹250", "veg": false },
+        { "id": 72, "name": "Chicken Chopsey", "price": "₹150 | ₹250", "veg": false },
+        { "id": 73, "name": "Chicken Lollipop Dry", "price": "₹150 | ₹250", "veg": false },
+        { "id": 74, "name": "Chicken Lollipop Gravy", "price": "₹150 | ₹240", "veg": false },
+        { "id": 75, "name": "Chicken 65 (Oil Fry)", "price": "₹150 | ₹250", "veg": false },
+        { "id": 76, "name": "Chicken Chili Dry", "price": "₹150 | ₹250", "veg": false },
+        { "id": 77, "name": "Chicken Chili Gravy", "price": "₹150 | ₹250", "veg": false },
+        { "id": 78, "name": "Chicken Singapore Gravy", "price": "₹150 | ₹250", "veg": false },
+        { "id": 79, "name": "Chicken Combination Dry", "price": "₹150 | ₹250", "veg": false },
+        { "id": 80, "name": "Chicken Combination Gravy", "price": "₹150 | ₹250", "veg": false }
+      ]
+    },
+    {
+      "id": "veg-paneer-items",
+      "name": "VEG PANEER ITEMS",
+      "items": [
+        { "id": 81, "name": "Veg Paneer Chilly (Dry)", "price": "₹170", "veg": true },
+        { "id": 82, "name": "Veg Paneer Chilly (Gravy)", "price": "₹170", "veg": true },
+        { "id": 83, "name": "Veg Paneer Masala", "price": "₹170", "veg": true },
+        { "id": 84, "name": "Veg Paneer Rice", "price": "₹170", "veg": true },
+        { "id": 85, "name": "Veg Paneer Noodles", "price": "₹170", "veg": true },
+        { "id": 86, "name": "Veg Paneer Bhel", "price": "₹170", "veg": true }
+      ]
+    },
+    {
+      "id": "veg-chinese-dish",
+      "name": "VEG CHINESE DISH",
+      "items": [
+        { "id": 87, "name": "Veg Manchurian Gravy", "price": "₹90 | ₹140", "veg": true },
+        { "id": 88, "name": "Veg Ginger Manchurian Gravy", "price": "₹90 | ₹140", "veg": true },
+        { "id": 89, "name": "Veg Sazwan Gravy", "price": "₹90 | ₹140", "veg": true },
+        { "id": 90, "name": "Veg Singapuri Gravy", "price": "₹90 | ₹140", "veg": true },
+        { "id": 91, "name": "Veg American Chopsuey", "price": "₹90 | ₹140", "veg": true },
+        { "id": 92, "name": "Veg Chopsuey", "price": "₹90 | ₹140", "veg": true },
+        { "id": 93, "name": "Veg Mahi Special", "price": "₹160", "veg": true }
+      ]
+    },
+    {
+      "id": "veg-chinese-rice-bhel",
+      "name": "VEG CHINESE RICE & BHEL",
+      "items": [
+        { "id": 94, "name": "Veg Fried Rice", "price": "₹90 | ₹140", "veg": true },
+        { "id": 95, "name": "Veg Biryani Rice", "price": "₹90 | ₹140", "veg": true },
+        { "id": 96, "name": "Veg Singapore Rice", "price": "₹90 | ₹140", "veg": true },
+        { "id": 97, "name": "Veg Combination Rice", "price": "₹90 | ₹140", "veg": true },
+        { "id": 98, "name": "Veg Bombay Rice", "price": "₹100 | ₹150", "veg": true },
+        { "id": 99, "name": "Veg Bhel", "price": "₹100 | ₹150", "veg": true },
+        { "id": 100, "name": "Veg Singapore Bhel", "price": "₹100 | ₹150", "veg": true },
+        { "id": 101, "name": "Veg Bombay Bhel", "price": "₹150", "veg": true }
+      ]
+    }
+  ]
+}
