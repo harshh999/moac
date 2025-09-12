@@ -228,7 +228,12 @@ export default function Home() {
             </div>
           </div>
 
-
+          {/* Ordering Instructions */}
+          <div className="text-center mb-3">
+            <p className="text-[#8B0000] text-sm font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
+              📞 Kindly Call Captain To Order
+            </p>
+          </div>
 
           {/* Contact Info */}
           <div className="flex flex-col gap-2">
