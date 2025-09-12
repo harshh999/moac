@@ -15,8 +15,6 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Mahi Omlette and Chinese",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["omlet", "eggs", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
   authors: [{ name: "Lazlle & Co" }],
  
   
