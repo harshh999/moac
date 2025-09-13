@@ -231,16 +231,12 @@ export default function Home() {
           {/* Ordering Instructions */}
           <div className="text-center mb-3">
             <p className="text-[#8B0000] text-sm font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
-              📞 Kindly Call Captain To Order
+              Kindly approach the captain to place orders
             </p>
           </div>
 
           {/* Contact Info */}
           <div className="flex flex-col gap-2">
-            <div className="flex items-center justify-center gap-2 text-white/80 bg-white/10 py-2 rounded-lg">
-              <Phone className="h-4 w-4" />
-              <span className="text-xs font-medium">+91 99982 82121</span>
-            </div>
             <div className="flex items-center justify-center gap-2 text-white/80 bg-white/10 py-2 rounded-lg">
               <Clock className="h-4 w-4" />
               <span className="text-xs">We serve from 12:00 P.M. – 11:00 P.M.</span>
@@ -455,8 +451,7 @@ export default function Home() {
           {/* Contact & Timings */}
           <div className="flex flex-col gap-2">
             <div className="flex items-center justify-center gap-2 text-white/80">
-              <Phone className="h-4 w-4" />
-              <span className="text-sm">+91 99982 82121</span>
+              <span className="text-sm">for queries: +91 99982 82121</span>
             </div>
             <div className="flex items-center justify-center gap-2 text-white/80">
               <Clock className="h-4 w-4" />
