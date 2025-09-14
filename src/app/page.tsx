@@ -229,6 +229,11 @@ export default function Home() {
           </div>
 
           {/* Ordering Instructions */}
+          <div className="text-center mb-1">
+            <p className="text-[#8B0000] text-sm font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
+              To place orders, go to the captain
+            </p>
+          </div>
           <div className="text-center mb-3">
             <p className="text-[#8B0000] text-sm font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
               For buns, drinks & more, go to captain
