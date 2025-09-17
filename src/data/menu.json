@@ -24,7 +24,7 @@
         { "id": 28, "name": "Boil Tikka", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
         { "id": 29, "name": "Boil Khima", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
         { "id": 30, "name": "Boil Curry", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
-        { "id": 31, "name": "Bhurji", "price": "Oil ₹100 | Double Oil ₹180, Butter ₹110 | Double Butter ₹200", "veg": false },
+        { "id": 31, "name": "Bhurji", "price": "Oil ₹80 | Double Oil ₹130, Butter ₹90 | Double Butter ₹160", "veg": false },
         { "id": 32, "name": "Gotala", "price": "Oil ₹100 | Double Oil ₹180, Butter ₹110 | Double Butter ₹200", "veg": false },
         { "id": 33, "name": "Gotala Surti", "price": "Oil ₹120 | Double Oil ₹220, Butter ₹140 | Double Butter ₹230", "veg": false },
         { "id": 34, "name": "Lasan Fry", "price": "Oil ₹100 | Double Oil ₹170, Butter ₹140 | Double Butter ₹210", "veg": false }
