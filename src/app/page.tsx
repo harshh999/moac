@@ -230,12 +230,12 @@ export default function Home() {
 
           {/* Ordering Instructions */}
           <div className="text-center mb-1">
-            <p className="text-[#8B0000] text-sm font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
-              To place orders, go to the captain
+            <p className="text-[#8B0000] text-base font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
+              For ordering, go to Counter
             </p>
           </div>
           <div className="text-center mb-3">
-            <p className="text-[#8B0000] text-sm font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
+            <p className="text-[#8B0000] text-base font-medium bg-white py-2 px-4 rounded-lg inline-block shadow-md">
               For buns, drinks & more, go to captain
             </p>
           </div>
@@ -244,7 +244,7 @@ export default function Home() {
           <div className="flex flex-col gap-2">
             <div className="flex items-center justify-center gap-2 text-white/80 bg-white/10 py-2 rounded-lg">
               <Clock className="h-4 w-4" />
-              <span className="text-xs">We serve from 12:00 P.M. – 11:00 P.M.</span>
+              <span className="text-sm">We serve from 12:00 P.M. – 11:00 P.M.</span>
             </div>
           </div>
         </div>

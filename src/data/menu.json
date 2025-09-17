@@ -101,6 +101,23 @@
       ]
     },
     {
+      "id": "chicken-rice",
+      "name": "CHICKEN RICE",
+      "items": [
+        { "id": 102, "name": "Chicken Rice", "price": "Half ₹130 | Full ₹190", "veg": false },
+        { "id": 103, "name": "Chicken Sezwan Rice", "price": "Half ₹130 | Full ₹190", "veg": false },
+        { "id": 104, "name": "Chicken Combination Rice", "price": "Half ₹130 | Full ₹190", "veg": false },
+        { "id": 105, "name": "Chicken Bombay Rice", "price": "Half ₹130 | Full ₹190", "veg": false },
+        { "id": 106, "name": "Chicken Chinese Bhel", "price": "₹190", "veg": false },
+        { "id": 107, "name": "Chicken Bombay Bhel", "price": "₹190", "veg": false },
+        { "id": 108, "name": "Chicken Singapore Rice", "price": "₹190", "veg": false },
+        { "id": 109, "name": "Egg Rice (Double Egg)", "price": "₹130", "veg": false },
+        { "id": 110, "name": "Chicken Manchurian Rice & Gravy", "price": "₹280", "veg": false },
+        { "id": 111, "name": "Chicken Triple Sezwan Fry Rice", "price": "₹300", "veg": false },
+        { "id": 112, "name": "Chicken Hong Kong Rice", "price": "₹210", "veg": false }
+      ]
+    },
+    {
       "id": "chinese-gravy",
       "name": "CHINESE GRAVY",
       "items": [
